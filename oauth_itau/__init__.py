@@ -16,7 +16,7 @@
 from __future__ import absolute_import
 
 # import apis into sdk package
-from oauth_itau.default_api import DefaultApi
+from oauth_itau.oauth_itau.default_api import DefaultApi
 
 # import ApiClient
 from oauth_itau.api_client import ApiClient
